@@ -19,7 +19,6 @@ int main()
     getch();
     printf("\n\n");
 
-
     printf("\n\t Value Of 1st Element = %d.",Num[0]);
     printf("\n\t Value Of 2nd Element = %d.",Num[1]);
     printf("\n\t Value Of 3rd Element = %d.",Num[2]);
@@ -32,4 +31,3 @@ int main()
     getch();
     return 0;
 }
-
