@@ -25,7 +25,6 @@ int main()
     printf("\n\t Value Of 4th Element = %d.",Num[3]);
     printf("\n\t Value Of 5th Element = %d.",Num[4]);
 
-
     printf("\n\n======================***********=========================\n\n");
 
     getch();
