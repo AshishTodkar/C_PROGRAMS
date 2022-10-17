@@ -8,7 +8,6 @@ int main()
     printf("\n\t Enter A Character To Print It's Corresponding ASCII Value : ");
     ch = getche();
 
-
     printf("\n\n\t ASCII Value Given Character %c Is %d.",ch,ch);
 
     printf("\n\n=======================**********==============================\n\n");
