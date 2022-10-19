@@ -12,7 +12,6 @@ int main()
 
     ( No == 0)?printf("\n\t %d Is Neutral Number.",No):( No > 0)?printf("\n\t %d Is Positive Number.",No):printf("\n\t %d Is Negative Number.",No);
 
-
     printf("\n\n===================*******======================\n\n");
 
     getch();
