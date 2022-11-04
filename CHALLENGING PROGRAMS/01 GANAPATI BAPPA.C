@@ -3,7 +3,7 @@
 
 int main()
 {
-    int r=0,c=0,Cnt=0,a=0,i=0,j=0,k=0;
+    int r=0,c=0,Cnt=0,a=0,j=0,k=0;
 
     printf("\n\t Enter Number Of Rows & Column Count : ");
     scanf("%d",&Cnt);
