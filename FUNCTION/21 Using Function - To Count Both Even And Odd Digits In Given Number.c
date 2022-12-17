@@ -30,7 +30,6 @@ void Cnt_Dig(int Num)
     return;
 }
 
-
 int main()
 {
     int No=0;
