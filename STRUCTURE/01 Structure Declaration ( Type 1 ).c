@@ -14,6 +14,7 @@ int main()
     struct stud s1={101,"Ash","Karad",85.00};
 
     printf("\n\t Given Student Details : \n");
+    
     printf("\n\t Roll Number : %d ",s1.Roll_No);
     printf("\n\t Name : %s ",s1.Name);
     printf("\n\t City : %s ",s1.City);
