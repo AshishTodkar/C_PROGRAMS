@@ -13,6 +13,7 @@ struct stud
 int main()
 {
     printf("\n\t 1st Student Details : \n");
+    
     printf("\n\t Roll Number : %d ",s1.Roll_No);
     printf("\n\t Name : %s ",s1.Name);
     printf("\n\t City : %s ",s1.City);
@@ -21,6 +22,7 @@ int main()
     struct stud s2 = {102,"Viki","Satara",90.00};
 
     printf("\n\t 2nd Student Details : \n");
+    
     printf("\n\t Roll Number : %d ",s2.Roll_No);
     printf("\n\t Name : %s ",s2.Name);
     printf("\n\t City : %s ",s2.City);
@@ -35,6 +37,7 @@ int main()
     s3.Per = 95.00;
 
     printf("\n\t 3rd Student Details : \n");
+    
     printf("\n\t Roll Number : %d ",s3.Roll_No);
     printf("\n\t Name : %s ",s3.Name);
     printf("\n\t City : %s ",s3.City);
