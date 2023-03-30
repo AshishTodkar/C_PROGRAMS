@@ -36,6 +36,9 @@ int main()
         }
     }
 
+    /// We Can Also Find LCM Or HCF By ( LCM * HCF = Num1 * Num2 ) If We Have Value Of One Of them ( LCM Or HCF )
+
+
     printf("\n\t HCF And LCM Of Given Numbers Are %d And %d.",HCF,LCM);
 
     printf("\n\n==========================******************===============================\n\n");
@@ -43,3 +46,4 @@ int main()
     getch();
     return 0;
 }
+
